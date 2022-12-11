@@ -451,9 +451,13 @@ footer {
     .col-img {
         max-height:12rem;
     }
+    #offer {
+        width:100vw;
+        margin-left:-5rem;
+    }
     .grid {
         margin:.5rem auto;
-        width:120%;
+        width:100vw;
     }
     .offer-title {
         width:100vw;
@@ -466,9 +470,9 @@ footer {
         align-items: center;
     }
     .offer-img img {
-        width:90%;
-        height:60%;
-        border-radius:10px;
+        width:200px;
+        height:200px;
+        border-radius:50%;
     }
     .offer-content {
         text-align:center;
